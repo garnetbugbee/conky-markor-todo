@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cat ~/Documents/todo-$(date +%B).txt
