@@ -5,12 +5,18 @@ The main Conky todo_sys.conf is adapted from the MX linux conky todo.
 The programs you will need:
 
   #Conky (https://github.com/brndnmtthws/conky)
+  
   #Conky manager 2 (https://github.com/zcot/conky-manager2)
+  
   #Markor on android 
+  
     github (https://github.com/gsantner/markor)
     fdroid (https://f-droid.org/packages/net.gsantner.markor/)
+    
   #Macrodroid (https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=en-US)
+  
   #Syncthing
+  
     Desktop (https://syncthing.net) though there are many ways to download/install syncthing depending on what distro you are running
     Android syncthing fork (https://f-droid.org/packages/com.github.catfriend1.syncthingandroid/) 
 
