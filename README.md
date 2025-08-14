@@ -58,4 +58,4 @@ The main `todo_sys.conf` for Conky is adapted from the MX Linux Conky todo.
 1. Import the `todo.macro` from this repository into Macrodroid.
 2. Once activated, any SMS containing the 💪 emoji will append the text after it to your `todo.txt`.  
 
-**Example:**
+**Example: Will you pickup 💪 kittens for me to snuggle**
