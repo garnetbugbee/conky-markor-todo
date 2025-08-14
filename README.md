@@ -10,39 +10,39 @@ The programs you will need:
   
   #Markor on android 
   
-  github (https://github.com/gsantner/markor)
-  fdroid (https://f-droid.org/packages/net.gsantner.markor/)
+   github (https://github.com/gsantner/markor)
+   fdroid (https://f-droid.org/packages/net.gsantner.markor/)
     
   #Macrodroid (https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=en-US)
   
   #Syncthing
   
-  Desktop (https://syncthing.net) though there are many ways to download/install syncthing depending on what distro you are running
+   Desktop (https://syncthing.net) though there are many ways to download/install syncthing depending on what distro you are running
   
-  Android syncthing fork (https://f-droid.org/packages/com.github.catfriend1.syncthingandroid/) 
+   Android syncthing fork (https://f-droid.org/packages/com.github.catfriend1.syncthingandroid/) 
 
 #Conky
 
-Once you have these installed, download the zip of this repository(extract the files) and add the extracted files to a folder in
-the .conky folder in your home directory. The .conky file may be hidden from view, so you will have to check show hidden files in the menu.
-Run the Conky manager2 and find the todo.conf and select it. You should have the conky show up on your desktop.
+  Once you have these installed, download the zip of this repository(extract the files) and add the extracted files to a folder in
+  the .conky folder in your home directory. The .conky file may be hidden from view, so you will have to check show hidden files in the menu.
+  Run the Conky manager2 and find the todo.conf and select it. You should have the conky show up on your desktop.
 
 #Syncthing
 
-Now setup the syncthing on your desktop adding the folder that contains the todo.txt and todo month txt file.
-Install and run the syncthing fork from fdroid, linking it to you computer and sharing the file. 
-There are many tutorials on setting up syncthing.
+  Now setup the syncthing on your desktop adding the folder that contains the todo.txt and todo month txt file.
+  Install and run the syncthing fork from fdroid, linking it to you computer and sharing the file. 
+  There are many tutorials on setting up syncthing.
 
 #Markor
 
-Install markor and change the file for the dodo list to the todo.txt shared by syncthing from your computer.
-Add the widget for the todo to your phone.
+  Install markor and change the file for the dodo list to the todo.txt shared by syncthing from your computer.
+  Add the widget for the todo to your phone.
 
 #Macrodroid
 
-Add the todo.macro from here to macrodroid. Once activated anytime someone texts you with 
-the 💪 anything after that will be added to the todo.txt on you phone.
- (txt example: will you pick up 💪 tomatoes, potatoes, and gold bulion at the store.) 
+  Add the todo.macro from here to macrodroid. Once activated anytime someone texts you with 
+  the 💪 anything after that will be added to the todo.txt on you phone.
+   (txt example: will you pick up 💪 tomatoes, potatoes, and gold bulion at the store.) 
 
 
 
