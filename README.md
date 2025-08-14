@@ -10,15 +10,16 @@ The programs you will need:
   
   #Markor on android 
   
-    github (https://github.com/gsantner/markor)
-    fdroid (https://f-droid.org/packages/net.gsantner.markor/)
+  github (https://github.com/gsantner/markor)
+  fdroid (https://f-droid.org/packages/net.gsantner.markor/)
     
   #Macrodroid (https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=en-US)
   
   #Syncthing
   
-    Desktop (https://syncthing.net) though there are many ways to download/install syncthing depending on what distro you are running
-    Android syncthing fork (https://f-droid.org/packages/com.github.catfriend1.syncthingandroid/) 
+  Desktop (https://syncthing.net) though there are many ways to download/install syncthing depending on what distro you are running
+  
+  Android syncthing fork (https://f-droid.org/packages/com.github.catfriend1.syncthingandroid/) 
 
 #Conky   
 Once you have these installed, download the zip of this repository(extract the files) and add the extracted files to a folder in
