@@ -30,6 +30,11 @@ The main `todo_sys.conf` for Conky is adapted from the MX Linux Conky todo.
 
 ---
 
+## 🤖 Install F-droid
+
+1. Install and give permissions to install f-droid from either the file you downloaded to your phone
+   from your computer, or from firefox, or chrome on your android phone.
+
 ## 🔄 Syncthing Setup
 
 1. Install Syncthing on your desktop.
