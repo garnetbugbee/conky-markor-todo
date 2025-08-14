@@ -1,6 +1,7 @@
 # conky-markor-todo
 Instruction and files for setting up conky, markor, syncthing, and macrodroid to make a comprehensive todo ecosystem.
 The main Conky todo_sys.conf is adapted from the MX linux conky todo.
+
 The programs you will need:
   #Conky (https://github.com/brndnmtthws/conky)
   #Conky manager 2 (https://github.com/zcot/conky-manager2)
