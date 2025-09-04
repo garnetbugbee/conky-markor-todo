@@ -1,9 +1,10 @@
 # Conky–Markor–Todo
-<article>
-							<a href="images/01.png"></a>						
-</article>
+
 A comprehensive todo ecosystem using Conky, Markor, Syncthing, and Macrodroid.  
 The main `todo_sys.conf` for Conky is adapted from the MX Linux Conky todo.
+<img width="1920" height="1080" alt="01" src="https://github.com/user-attachments/assets/e254a8bd-ed10-455d-b898-ea3d07a55e79" />
+<img width="1920" height="1080" alt="02" src="https://github.com/user-attachments/assets/d9c06cb8-1211-42b6-bd3f-d16d2481eba0" />
+
 
 ---
 
